@@ -1,3 +1,3 @@
-# The Edinburgh Research Software Engineers Community
+# Community of Edinburgh Research Software Engineers
 
 
