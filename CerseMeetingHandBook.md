@@ -5,9 +5,11 @@
 * [Overview](#overview)
 * [Infrastructure](#infrastructure)
 * [Process](#process)
+  * [Venue requirements](#venue-requirements)
   * [Before the event](#before-the-event) 
   * [Lead up to the event](#lead-up-to-the-event)
   * [After the event](#after-the-event)
+  * [Timeline](#timeline)
 
   
 ## Overview
@@ -27,6 +29,17 @@ meetings:
 * Slack channel - you will have to join the [UK RSE](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1) slack and then join the `#edinburgh` channel.
 
 ## Process
+
+### Venue requirements
+
+A good venue should have:
+
+* Capacity for up to around 50 people (registrations vary depending on time, day and location)
+* RSEs tend to carry laptops around so have an adequate power sockets
+* Have sufficient space or areas where break-out groups can interact without affecting the other breakout groups
+* Have a projector at the front with a screen or other equipment that allows content to be projected
+
+The venue should be available for around two hours.
 
 ### Before the event
 This starts from the premise that a suitable venue has been booked for this event.
@@ -51,6 +64,17 @@ Before you can do anything you need to get yourself added to the GitHub Organisa
 
 Advertise, advertise, advertise - hopefully, you can get some advice on good channels from existing member to do this.
 
+### On the day
+
+For the day have:
+
+* Signage if the room is difficult t find.
+* A sign up sheet (with a pen) if you set up a registration process (good to know who actually turned up on the day and also those that did not register)
+
 ### After the event
 
 Make sure that you get permission from the participants that it is ok to add their presentations on-line and add these to your event repository. 
+
+### Timeline
+
+At the third CERSE meeting it was thought that having a bimonthly meeting might work best. This section attempts to give a suggested timeline on how to proceed. We are going to start from an assumption that the venue for the next CERCE meeting is decided on or soon after one of these meetings.
