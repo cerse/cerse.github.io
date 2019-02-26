@@ -21,7 +21,7 @@ Engineers* (CERSE) meeting. This is an evolving document - if you have somthing 
 We have some infrastructure set up to help organise 
 meetings:
 
-* [CIRSE GitHub Organisational account](https://github.com/cerse/) - to join this send your GitHub id to [mario](mailto:mario@epcc.ed.ac.uk?subject=Add me to the CERSE GitHub org.) or one of the other admins.
+* [CERSE GitHub Organisational account](https://github.com/cerse/) - to join this send your GitHub id to [mario](mailto:mario@epcc.ed.ac.uk?subject=Add me to the CERSE GitHub org.) or one of the other admins.
 * [Twitter account](https://twitter.com/cerse7)
 * [JISC mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ED-RSE-COMMUNITY)
 * Slack channel - you will have to join the [UK RSE](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1) slack and then join the `#edinbugh` channel.
@@ -29,9 +29,9 @@ meetings:
 ## Process
 
 ### Before the event
-This starts from the premis that a suitable venue has been booked for this event.
+This starts from the premise that a suitable venue has been booked for this event.
 
-Before you can do anything you need to get yourself added to the GitHub Organisational Repositories. I am assuming that you are going to be coordinating a future CERSE meeting in Edinburgh. We are using GitHub io pages to publicise the meetings so it is important that you have a GitHub id with sufficient privileges.
+Before you can do anything you need to get yourself added to the GitHub Organisational Repositories. I am assuming that you are going to be coordinating a future CERSE meeting in Edinburgh. We are using GitHub.io pages to publicise the meetings so it is important that you have a GitHub id with sufficient privileges.
 
 1. Create a repository with a name like `yyyy-mm-dd-venue` for your meeting
 2. Go into your repository and click on `Settings` (has a Gear wheel). 
