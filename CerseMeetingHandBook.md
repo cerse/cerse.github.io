@@ -24,7 +24,7 @@ meetings:
 * [CERSE GitHub Organisational account](https://github.com/cerse/) - to join this send your GitHub id to [mario](mailto:mario@epcc.ed.ac.uk?subject=Add me to the CERSE GitHub org.) or one of the other admins.
 * [Twitter account](https://twitter.com/cerse7)
 * [JISC mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ED-RSE-COMMUNITY)
-* Slack channel - you will have to join the [UK RSE](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1) slack and then join the `#edinbugh` channel.
+* Slack channel - you will have to join the [UK RSE](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1) slack and then join the `#edinburgh` channel.
 
 ## Process
 
