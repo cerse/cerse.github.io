@@ -16,7 +16,7 @@
 
 This document offers some guidance on how to go about
 arranging a Community of *Edinburgh Research Software 
-Engineers* (CERSE) meeting. This is an evolving document - if you have somthing to add please contribute.
+Engineers* (CERSE) meeting. This is an evolving document - if you have something to add please contribute.
 
 ## Infrastructure
 
