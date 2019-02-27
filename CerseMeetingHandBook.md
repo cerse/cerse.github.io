@@ -77,4 +77,4 @@ Make sure that you get permission from the participants that it is ok to add the
 
 ### Timeline
 
-At the third CERSE meeting it was thought that having a bimonthly meeting might work best. This section attempts to give a suggested timeline on how to proceed. We are going to start from an assumption that the venue for the next CERCE meeting is decided on or soon after one of these meetings.
+At the third CERSE meeting it was thought that having a bimonthly meeting might work best. This section attempts to give a suggested timeline on how to proceed. We are going to start from an assumption that the venue for the next CERSE meeting is decided on or soon after one of these meetings.
