@@ -20,41 +20,44 @@ Engineers* (CERSE) meeting. This is an evolving document - if you have something
 
 ## Infrastructure
 
-We have some infrastructure set up to help organise 
-meetings:
+We have set up some infrastructure to help organise 
+such meetings:
 
-* [CERSE GitHub Organisational account](https://github.com/cerse/) - to join this send your GitHub id to [mario](mailto:mario@epcc.ed.ac.uk?subject=Add me to the CERSE GitHub org.) or one of the other admins.
-* [Twitter account](https://twitter.com/cerse7)
-* [JISC mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ED-RSE-COMMUNITY)
+* [CERSE GitHub Organisational account](https://github.com/cerse/) - to join this organisation send your GitHub id to [mario](mailto:mario@epcc.ed.ac.uk?subject=Add me to the CERSE GitHub org.) or one of the other admins.
+* [Twitter account](https://twitter.com/cerse7) - as a means to publicise such events or to learn of them.
+* [JISC mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ED-RSE-COMMUNITY) - a growing list of members you can publicise the meeting to.
 * Slack channel - you will have to join the [UK RSE](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1) slack and then join the `#edinburgh` channel.
 
+We have tried to make these institution independent so as to be available to all interested parties in Edinburgh.
 ## Process
 
 ### Venue requirements
 
 A good venue should have:
 
-* Capacity for up to around 50 people (registrations vary depending on time, day and location)
-* RSEs tend to carry laptops around so have an adequate number of power sockets and/or power extensions available
-* Have sufficient space or areas where break-out groups can interact without affecting the other breakout groups
-* Have a projector at the front with a screen or other equipment that allows content to be projected
+* Capacity for up to around 50 people (registrations vary depending on time, day and location).
+* *Research Software Engineers* (RSEs) tend to carry laptops around so have an adequate number of power sockets and/or power extensions available.
+* Have sufficient space or adjoining areas where break-out groups can interact without affecting the other breakout groups if you are going to have breakout sessions at your meeting.
+* Have a projector at the front with a screen or other equipment that allows content to be projected.
+* Have amplification/induction loops.
+* Be wheelchair accessible.
 
-The venue should be available for around two hours.
+The venue should be available for around two hours - this has been the typical duration up to this point.
 
 ### Before the event
 This starts from the premise that a suitable venue has been booked for this event.
 
-Before you can do anything you need to get yourself added to the GitHub Organisational Repositories. I am assuming that you are going to be coordinating a future CERSE meeting in Edinburgh. We use GitHub.io pages to publicise the meetings and log any outcomes so it is important that you have a GitHub id with sufficient privileges to do this.
+Before you can do anything you need to get yourself added to the GitHub Organisational Repositories. We are assuming that you are going to be coordinating a future CERSE meeting in Edinburgh. We use GitHub.io pages to publicise the meetings and log any outcomes so it is important that you have a GitHub id with sufficient privileges to do this.
 
-1. Create a repository with a name that uses the `yyyy-mm-dd-venue` pattern for your meeting.
-2. Go into your repository and click on `Settings` (has a Gear wheel). 
-  * Scroll down this page until you come to the `GitHub Pages` section.
+1. Create a repository with a name that employs the `yyyy-mm-dd-venue` pattern for your meeting.
+2. Go into your repository and click on `Settings`. 
+  * Scroll down until you come to the `GitHub Pages` section.
   * Change the `Source` to `master branch` (your io pages will be generated from your [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages in the repo starting from a `Readme.md` file).
-  * Once you have done this GitHub will tell you where your GitHub io pages are going to be published. It will have the pattern: `https://cerse.github.io/YourRepoName`. Take a copy of this (it will make your life easier later).
-  * For the `Theme Chooser`, click on the `Change Theme`. We have been using the `Midnight theme` but if you think there is a better one for your event use that instead.
+  * When you make this change GitHub will inform you where your GitHub io pages are published. It will follow the pattern: `https://cerse.github.io/YourRepoName`. Take a copy of your io pages URL.
+  * For the `Theme Chooser` below, click on the `Change Theme`. We have been using the `Midnight theme` but if you think there is a better one for your event use that instead.
   * Go back to your repo page.
-3. Click on the `Edit` button to modify the message `No description, website, or topics provided.`. If you do not see this button ask for your privileges to be escalated. Add a short description for your event but more importantly add the GitHub io pages website. This will save you lots of time later when you want to view the website.
-4. Create a `Readme.md` file. Populate with the contents of a previous event. Edit according to the contents required for your event.
+3. Click on the `Edit` button to modify the message `No description, website, or topics provided.`. If you do not see this button ask for your privileges to be increased. Add a short description for your event but more importantly add the GitHub io pages URL for your website. 
+4. Create a `Readme.md` file. Populate with the contents of a previous event. Begin to edit with the corresponding content for your event.
 5. Go to the [cerse.github.io](https://github.com/cerse/cerse.github.io) repository which contains the master pages for the organisation. Add your event, in reverse chronological order, to the list of existing events. Make sure you point to the GitHub io pages and not the repository. 
 6. It can be useful to set-up a registration process to know how many people are coming to the event (especially if catering is being provided) and to generate an attendee list. For this you could use:
    * [Edinburgh University events booking](https://www.ed.ac.uk/information-services/computing/comms-and-collab/event-booking) - make sure that externals to Edinburgh University can register for the event.
@@ -62,7 +65,14 @@ Before you can do anything you need to get yourself added to the GitHub Organisa
 
 ### Lead up to the event
 
-Advertise, advertise, advertise - hopefully, you can get some advice on good channels from existing member to do this.
+Once you have a first draft complete version of the GitHub pages for your event and a registration page,if you are going to use one, it is time to advertise, advertise, advertise. Hopefully, you can get some advice on good channels from existing member to do this.
+
+Some suggestions are:
+
+* [The CERSE mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ED-RSE-COMMUNITY).
+* [The CERSE twitter account](https://twitter.com/cerse7).
+* Edinburgh University's [itforum](https://www.wiki.ed.ac.uk/display/itpfwiki/ITPF+Mailing+lists) internal mailing list for IT professionals at the University of Edinburgh.
+
 
 ### On the day
 
