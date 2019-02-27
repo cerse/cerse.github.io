@@ -29,6 +29,7 @@ such meetings:
 * Slack channel - you will have to join the [UK RSE](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1) slack and then join the `#edinburgh` channel.
 
 We have tried to make these institution independent so as to be available to all interested parties in Edinburgh.
+
 ## Process
 
 ### Venue requirements
@@ -45,9 +46,10 @@ A good venue should have:
 The venue should be available for around two hours - this has been the typical duration up to this point.
 
 ### Before the event
+
 This starts from the premise that a suitable venue has been booked for this event.
 
-Before you can do anything you need to get yourself added to the GitHub Organisational Repositories. We are assuming that you are going to be coordinating a future CERSE meeting in Edinburgh. We use GitHub.io pages to publicise the meetings and log any outcomes so it is important that you have a GitHub id with sufficient privileges to do this.
+Before you can do anything you need to get yourself added to the GitHub CERSE Organisational. We are assuming that you are going to be coordinating a future CERSE meeting in Edinburgh. We use [GitHub.io pages](https://pages.github.com/) to publicise meetings and log any outcomes so it is important that you have a GitHub id with sufficient privileges in the Organisation to do this.
 
 1. Create a repository with a name that employs the `yyyy-mm-dd-venue` pattern for your meeting.
 2. Go into your repository and click on `Settings`. 
@@ -63,6 +65,31 @@ Before you can do anything you need to get yourself added to the GitHub Organisa
    * [Edinburgh University events booking](https://www.ed.ac.uk/information-services/computing/comms-and-collab/event-booking) - make sure that externals to Edinburgh University can register for the event.
    * [Eventbrite](https://www.eventbrite.co.uk/)
 
+### Timetable for the day
+
+The programme for the day will depend on how you want to shape the day. Typically we have had:
+
+|Time  | Activity      | 
+|------| ------|
+|13:00 | Welcome  |
+|13:05 | Presentation possibly from the venue volunteer |
+|13:25 | Ice breaking session (opportunity to get to know your fellow attendees) or a group activity|
+|13:45 | Lightning talks or discussion breakout groups |
+|14:00 | An RSE focused presentation |
+|14:30 | Coffee and biscuits |
+|15:00 | Close |
+
+where the times are flexible depending on the content. In more detail:
+
+* The **Welcome** is probably something you should give unless you can get someone else to do it.
+* It might be a good idea to let the person who volunteered the venue to give a **short presentation**.
+* It is nice to have an **ice breaking session**. Get people to form into groups of roughly 5 to 6 people, get them to join groups where they know the least number of people and then get them to introduce themselves to each other (about a minute per person). Then give each group a topic to discuss for around 10 minutes. Get them to nominate someone to chair and another person who will be the scribe. Either give them a pertinent topic to discuss or get them to select from a list that you will have prepared when generating the table. At the end of the session get the chair person and/or the scribe to report the main salient points of their discussion. If at all possible get the scribe to send you a summary of the discussion after the event - do not rely on notes that may/may  not have been written up on the day. The main point of this session is to get people to get to know each other but some useful material may also be generated that would benefit from being recorded.
+* **Lightning Talks** have proved to be of interest on the day but this requires people to volunteer this afore the meeting. We want these to be light for the speaker and the audience. We have had a rule of only one slide and two minute per speaker (having a count down timer helps here). You will need people to register and express a desire to do a lightning talk on their research, a service, a cool tool, etc ... they can do more than one lightning talk but must be on different topics. Gather the slides BEFORE the meeting and put on one laptop. Ask for permission from the presenters if the slides can be made available from the web site after.
+* An **RSE focused presentation** - this should be a presentation that would be of wide interest to the RSEs. 
+* **Coffee and biscuits** this session gives you some spill over time if things have over run and you are running a bit late but in general people like to wind down with coffee and biscuits.
+
+This is only an example timetable - please feel free to change so that it best fits your needs. Coming up with the timetable for the day can be one of the hardest things to get done for your meeting. 
+
 ### Lead up to the event
 
 Once you have a first draft complete version of the GitHub pages for your event and a registration page,if you are going to use one, it is time to advertise, advertise, advertise. Hopefully, you can get some advice on good channels from existing member to do this.
@@ -73,6 +100,7 @@ Some suggestions are:
 * [The CERSE twitter account](https://twitter.com/cerse7).
 * Edinburgh University's [itforum](https://www.wiki.ed.ac.uk/display/itpfwiki/ITPF+Mailing+lists) internal mailing list for IT professionals at the University of Edinburgh.
 
+Keep a log of where you publicise and when. You do not want to SPAM the same people too many times.
 
 ### On the day
 
@@ -87,4 +115,9 @@ Make sure that you have copies of any material that was presented and that you h
 
 ### Timeline
 
-At the third CERSE meeting it was thought that having a bimonthly meeting might work best. This section attempts to give a suggested timeline on how to proceed. We are going to start from an assumption that the venue for the next CERSE meeting is decided on or soon after one of these meetings.
+At the third CERSE meeting it was thought that scheduling a bimonthly meeting would work best. This section attempts to give a suggested timeline on how to proceed. We start from an assumption that the venue for the next CERSE meeting is decided on, or soon after, one of these meetings.
+
+* **time 0**: 
+  * Have a room booked for the next meeting.
+* **week 1**: 
+  * First draft complete version
