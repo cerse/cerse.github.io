@@ -109,15 +109,32 @@ For the day you will need:
 * Signage and some non-damaging way to stick your signs if the room is difficult to find.
 * A sign up sheet (with a pen) if you set up a registration process (good to know who actually turned up on the day and also those that did not register) so add a couple of extra blank rows for those that wish to sign up on the day. 
 
+At the end of the meeting ask the audience if anyone would like to volunteer the next or a future venue. Give priority to venues that have not been used before or that are in separate geographical location in Edinburgh.
+
 ### After the event
 
 Make sure that you have copies of any material that was presented and that you have permission from the content providers that it is ok to add their content online through your event repository. 
 
 ### Timeline
 
-At the third CERSE meeting it was thought that scheduling a bimonthly meeting would work best. This section attempts to give a suggested timeline on how to proceed. We start from an assumption that the venue for the next CERSE meeting is decided on, or soon after, one of these meetings.
+At the third CERSE meeting it was thought that scheduling a bimonthly meeting would work best. This section attempts to give a suggested timeline on how to proceed. Assume an 8 week span between meetings. We start from an assumption that the venue for the next CERSE meeting is decided on, or soon after, one of these meetings.
 
-* **time 0**: 
+* **week 0**: 
   * Have a room booked for the next meeting.
 * **week 1**: 
-  * First draft complete version
+  * First draft complete version of the timetable.
+  * Have a registration process in place (if you are going to use one).
+* **week 2**:
+  * First round of advertising. Spam the mailing list, twitter, etc available to you.
+* **weeks 3 and 4**:
+  * More nuanced targeted advertising - send emails to individual people and get them in turn to spread the word. Keep a record of who you contacted and when.
+* **week 5**:
+  * Hit the mailing lists and other mass channels available to you publicising the meeting.
+* **weeks 6 and 7**:
+  * Continue with your targeted advertising.
+  * Put an order for catering if you have a budget for this.
+* **week 8 (final week)**:
+  * One final mass mailing.
+  * Have your meeting.    
+
+This timetable is rather optimistic in that it assumes you will have eight weeks but you can compress accordingly to your needs. The amount of advertising you have to do should be informed by the number of (or lack of) registrations you have already (another good reason why you should have a registration process). Expect about 30% of no shows on the day as well as some shows that did not register.
