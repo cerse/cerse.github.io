@@ -14,21 +14,19 @@
   
 ## Overview
 
-This document offers some guidance on how to go about
-arranging a Community of *Edinburgh Research Software 
+This document offers some guidance on how to orgonise a Community of *Edinburgh Research Software 
 Engineers* (CERSE) meeting. This is an evolving document - if you have something to add please contribute.
 
 ## Infrastructure
 
-We have set up some infrastructure to help organise 
-such meetings:
+We have set up some infrastructure to help organise such meetings:
 
 * [CERSE GitHub Organisational account](https://github.com/cerse/) - to join this organisation send your GitHub id to [mario](mailto:mario@epcc.ed.ac.uk?subject=Add me to the CERSE GitHub org.) or one of the other admins.
 * [Twitter account](https://twitter.com/cerse7) - as a means to publicise such events or to learn of them.
 * [JISC mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ED-RSE-COMMUNITY) - a growing list of members you can publicise the meeting to.
 * Slack channel - you will have to join the [UK RSE](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1) slack and then join the `#edinburgh` channel.
 
-We have tried to make these institution independent so as to be available to all interested parties in Edinburgh.
+We have made these institution independent so as to be available to all interested parties in Edinburgh.
 
 ## Process
 
