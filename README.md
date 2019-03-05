@@ -8,10 +8,10 @@ Establish a self sustaining *Community Edinburgh Research Software Engineers* (R
 * Our [second meeting](https://cerse.github.io/2018-11-21-ECA/) was held at the ECA on 21/11/18.
 * Our [first meeting](https://cerse.github.io/2018-09-26-bootstrap/) was held at the Bayes Centre on 26/09/18.
 
-If you would like to know more you can:
+If you are organising a future CERSE meeting have a look at our [CERSE Meeting Handbook](CerseMeetingHandBook.md) which provides some guidance on how to organise these meetings. To keep in touch you can:
 
 * Join the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ED-RSE-COMMUNITY).
 * Follow us on [twitter](https://twitter.com/cerse7).
 * Join the [UK RSE slack](https://ukrse.slack.com/) and join the `#edinburgh` channel.
 
-If you would like to know more about RSEs have a look at the [RSE Association](https://rse.ac.uk/) pages.
+Want to know more about RSEs? have a look at the [RSE Association](https://rse.ac.uk/) pages.
