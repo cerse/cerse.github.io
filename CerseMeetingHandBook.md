@@ -14,9 +14,9 @@
   
 ## Overview
 
-This document offers guidance on how to orgonise a Community of *Edinburgh Research Software 
-Engineers* (CERSE) meeting. This is an evolving document - if you have something to add please contribute. We believe that these meetings 
-should be inclusive and available to all. We have adopted the Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), please make yourself familiar with this and inform participants at the meeting that they should observe this.
+This is an evolving document - if you have something to add or change please contribute.
+
+This document offers guidance on how to orgonise a Community of *Edinburgh Research Software Engineers* (CERSE) meeting. We believe that these meetings should be inclusive and available to all. We have adopted the Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), please make yourself familiar with this and inform participants at the meeting that they should observe this.
 
 ## Infrastructure
 
