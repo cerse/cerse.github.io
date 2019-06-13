@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Establish a self sustaining *Community Edinburgh Research Software Engineers* (RSEs) to periodically come together to achieve best  practice and provide support for fellow RSEs. We are doing this through a number of meetings aimed to take place at a bimonthly interval. The group
+The aim is to establish a self sustaining *Community Edinburgh Research Software Engineers* (RSEs) who periodically come together to determine best practice and provide support for fellow RSEs in Edinburgh and wider afield. We are doing this through a number of meetings aimed to take place at a bimonthly interval. The group
 
 * Fourth meeting, date TBD.
 * Our [third meeting](https://cerse.github.io/2019-01-25-ArgyleHouse/) was held at Argyle House on 25/01/19.
