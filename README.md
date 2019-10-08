@@ -4,7 +4,7 @@
 
 The aim is to establish a self sustaining *Community Edinburgh Research Software Engineers* (RSEs) who periodically come together to determine best practice, provide support for fellow RSEs in Edinburgh and wider afield. We are doing this through a number of meetings aimed to take place at a bimonthly interval.
 
-* Our [fourth meeting](https://cerse.github.io/2019-10-08-ChancellorsBuilding/), at the Chancellor's Building in the BioQuarter on 08/10/19.
+* Our [fourth meeting](https://cerse.github.io/2019-10-08-ChancellorsBuilding/), was held at the Chancellor's Building in the BioQuarter on 08/10/19.
 * Our [third meeting](https://cerse.github.io/2019-01-25-ArgyleHouse/) was held at Argyle House on 25/01/19.
 * Our [second meeting](https://cerse.github.io/2018-11-21-ECA/) was held at the ECA on 21/11/18.
 * Our [first meeting](https://cerse.github.io/2018-09-26-bootstrap/) was held at the Bayes Centre on 26/09/18.
