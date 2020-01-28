@@ -1,4 +1,4 @@
-# Community of Edinburgh Research Software Engineers
+# Community of Edinburgh RSEs
 
 ## Purpose
 
