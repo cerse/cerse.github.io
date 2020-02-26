@@ -66,9 +66,11 @@ Before you can do anything get yourself added to the GitHub CERSE Organisational
 
 ### Timetable for the day
 
-The programme for the day will depend on how you want to shape the day. Typically we have used the following pattern:
+The programme for the day will depend on how you want to shape the day. See the [template](Template.md) file you can use to seed your repository - you need to name this file `Readme.md` in your repository.
 
-|Time  | Activity      | 
+Typically we have used the following pattern:
+
+|Time  | Activity      |
 |------| ------|
 |13:00 | Welcome  |
 |13:05 | Presentation possibly from the venue volunteer |
