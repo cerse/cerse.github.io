@@ -33,10 +33,10 @@ We have made these institution independent so as to be available to all interest
 
 ### Venue requirements
 
-First task is to have a good venue. A good venue should have:
+First task is to have a good venue. A good venue should have where possible:
 
-* Capacity usually for up to around 50 people (registrations vary depending on time, day and location where the meeting will take place).
-* *Research Software Engineers* (RSEs) tend to carry laptops around so you should try to have an adequate number of power sockets and/or power extensions available.
+* Capacity usually for up to around 50 people (registrations vary depending on time, day and location where the meeting will take place and advertising).
+* *Research Software Engineers* (RSEs) tend to carry laptops around so it would be nice to try to have an adequate number of power sockets and/or power extensions available.
 * Have sufficient space or adjoining areas where break-out groups, if you are going to have any, so they can interact without affecting other breakout groups.
 * Have a projector at the front with a screen or other equipment that allows content to be projected.
 * Have amplification/induction loops.
