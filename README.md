@@ -18,3 +18,6 @@ If you are organising a future CERSE meeting have a look at our [CERSE Meeting H
 * Join the [UK RSE slack](https://ukrse.slack.com/) and join the `#edinburgh` channel.
 
 Want to know more about RSEs? have a look at the [RSE Association](https://rse.ac.uk/) pages.
+
+Please refer to the [accessibility statement](AccessibilityStatement.md) for this web site.
+
