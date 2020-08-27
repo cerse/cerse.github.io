@@ -6,7 +6,6 @@ This website and the individual meeting pages (which we call CERSEWeb) is run by
 
 We want as many people as possible to be able to use this website. For example, that means you should be able to:
 
-- change colours, contrast levels and fonts
 - zoom in up to 200% without the text spilling off the screen
 - navigate most of the website using just a keyboard
 - navigate most of the website using speech recognition software
