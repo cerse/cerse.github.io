@@ -1,8 +1,10 @@
 ## Accessibility statement for the Community of Edinburgh Research Software Engineering (CERSE) pages
 
-Within the [Software Sustainability Institute](http://www.software.ac.uk) and [The University of Edinburgh](http://www.ed.ac.uk) we feel that inclusivity is important and acccessibility forms an important aspect of this. We will do our best to comply with the [Public Sector Body (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018](https://www.legislation.gov.uk/uksi/2018/852/contents/made)  legislation but if you find parts of this website that are not accessible to you then please email [m.antonioletti@epcc.ed.ac.uk](mailto:m.antonioletti@epcc.ed.ac.uk) and I will endevour to fix these problems.
+This website is run by volunteers mainly from [The University of Edinburgh](http://www.ed.ac.uk) .  [The University of Edinburgh](http://www.ed.ac.uk) is committed to making its website accessible, in accordance with the  [Public Sector Body (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018](https://www.legislation.gov.uk/uksi/2018/852/contents/made). 
 
-This website and the individual meeting pages (which we call CERSEWeb) is run by a volunteer group mostly from the University of Edinburgh. You can view this website either as processed HTML generated from markdown or you may choose to view it via the original markdownin the GitHub (Click on the `View On GitHub` at the top and that will take you to the markdown). 
+If you find parts of this website  not accessible to you then  email [m.antonioletti@epcc.ed.ac.uk](mailto:m.antonioletti@epcc.ed.ac.uk) and he will endevour to fix any problems identified.
+
+You can view this website either as processed HTML generated from markdown or you may choose to view it via the original markdown (Click on the `View On GitHub` button at the top). 
 
 We want as many people as possible to be able to use this website. For example, that means you should be able to:
 
