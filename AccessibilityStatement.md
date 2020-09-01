@@ -28,7 +28,7 @@ We know some parts of this website are not fully accessible:
 If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille:
 
 * email Mario Antonioletti [m.antonioletti@epcc.ed.ac.uk](mailto:m.antonioletti@epcc.ed.ac.uk) 
-* call +44 (0) 131 651 3534
+* call +44 (0) 131 651 3534 (during office hours and outside the Covid-19 period; for now best to use email)
 
 We’ll consider your request and get back to you in 10 working days.
 
@@ -66,4 +66,4 @@ This statement was prepared on 27 August 2020. It was last reviewed on 31 August
 This website was last tested on 31 August 2020. The test was carried out by running our web pages through the following accessiblity checkers [Wave](https://wave.webaim.org/extension/) and [AChecker](https://achecker.ca/).
 
 
-Version 0.3, Published on 31 August 2020.
+Version 0.3, Published on 1st September 2020.
