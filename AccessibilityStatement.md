@@ -65,5 +65,7 @@ This statement was prepared on 27 August 2020. It was last reviewed on 31 August
 
 This website was last tested on 31 August 2020. The test was carried out by running our web pages through the following accessiblity checkers [Wave](https://wave.webaim.org/extension/) and [AChecker](https://achecker.ca/).
 
-
-Version 0.3, Published on 1st September 2020.
+---
+<div align="right"><small><i>
+Version 0.4, Published on 1st September 2020.
+ </i></small></div>
