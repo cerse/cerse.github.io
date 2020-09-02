@@ -101,5 +101,5 @@ The University of Edinburgh’s Disability Information Office will be running a 
 
 ---
 <div align="right"><small><i>
-Version 0.4, Published on 1st September 2020.
+Version 0.5, Published on 2nd September 2020.
  </i></small></div>
