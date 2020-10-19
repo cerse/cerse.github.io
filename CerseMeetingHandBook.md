@@ -70,7 +70,6 @@ The programme for the day will depend on how you want to shape the day. See the 
 
 Typically we have used the following pattern:
 
-<caption>Sample time table for an RSE meeting.</caption>
 
 |Time  | Activity      |
 |------| ------|
