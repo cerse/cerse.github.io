@@ -53,9 +53,9 @@ Before you can do anything get yourself added to the GitHub CERSE Organisational
 1. Create a repository with a name that uses the `yyyy-mm-dd-venue` pattern for your meeting. Make sure you create under the `cerse` organiation and that it is a `Public` repository.
 2. Go into your repository and click on `Settings` (Gear icon). 
   * Choose the `Pages` menu item on the left-hand menu.
-  * Change the `Source` to `main branch` (your io pages will be generated from your [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages in the repo starting from a `Readme.md` file).
+  * Change the `Source` to `Deploy from a branch` and choose the branch to be `main` and the root to be `/ (root)` and remember to `Save` (your io pages will be generated from your [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages in the repo starting from a `Readme.md` file).
   * When you make this change GitHub will inform you where your GitHub io pages are published. It will follow the pattern: `https://cerse.github.io/YourRepoName`. Take a copy of your io pages URL.
-  * For the `Theme Chooser` below this, click on the `Change Theme`. Changed to use the Cayman theme as that gives a better accessibility score - we have previously been using the `Midnight theme`. If you think there is a better one for your event use that instead.
+  * If you copy the `_config.yaml` from another repo to use the Cayman theme as that gives a better accessibility score - we have previously been using the `Midnight theme`. If you think there is a better one for your event use that instead.
   * Go back to your repo page.
 3. Click on the `Edit` button to modify the message `No description, website, or topics provided.`. If you do not see this button ask for your privileges to be increased. Add a short description for your event but more importantly add the GitHub io pages URL for your website. 
 4. Create a `Readme.md` file. Populate with the contents of a previous event. Begin to edit with the corresponding content for your event.
