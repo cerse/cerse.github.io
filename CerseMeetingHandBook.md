@@ -53,13 +53,13 @@ Before you can do anything get yourself added to the GitHub CERSE Organisational
 1. Create a repository with a name that uses the `yyyy-mm-dd-venue` pattern for your meeting. Make sure you create under the `cerse` organiation.
 2. Go into your repository and click on `Settings`. 
   * Scroll down until you come to the `GitHub Pages` section.
-  * Change the `Source` to `master branch` (your io pages will be generated from your [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages in the repo starting from a `Readme.md` file).
+  * Change the `Source` to `main branch` (your io pages will be generated from your [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages in the repo starting from a `Readme.md` file).
   * When you make this change GitHub will inform you where your GitHub io pages are published. It will follow the pattern: `https://cerse.github.io/YourRepoName`. Take a copy of your io pages URL.
   * For the `Theme Chooser` below this, click on the `Change Theme`. Changed to use the Cayman theme as that gives a better accessibility score - we have previously been using the `Midnight theme`. If you think there is a better one for your event use that instead.
   * Go back to your repo page.
 3. Click on the `Edit` button to modify the message `No description, website, or topics provided.`. If you do not see this button ask for your privileges to be increased. Add a short description for your event but more importantly add the GitHub io pages URL for your website. 
 4. Create a `Readme.md` file. Populate with the contents of a previous event. Begin to edit with the corresponding content for your event.
-5. Go to the [cerse.github.io](https://github.com/cerse/cerse.github.io) repository which contains the master pages for the organisation. Add your event, in reverse chronological order, to the list of existing events. Make sure you point to the GitHub io pages and not the repository. 
+5. Go to the [cerse.github.io](https://github.com/cerse/cerse.github.io) repository which contains the `main` pages for the organisation. Add your event, in reverse chronological order, to the list of existing events. Make sure you point to the GitHub io pages and not the repository. 
 6. It can be useful to set-up a registration process to know how many people are coming to the event (especially if catering is being provided) and to generate an attendee list. For this you could use:
    * [Edinburgh University events booking](https://www.ed.ac.uk/information-services/computing/comms-and-collab/event-booking) - make sure that externals to Edinburgh University can register for the event.
    * [Eventbrite](https://www.eventbrite.co.uk/)
