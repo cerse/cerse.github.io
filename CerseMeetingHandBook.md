@@ -50,7 +50,7 @@ This starts from the premise that a suitable venue has been booked for this even
 
 Before you can do anything get yourself added to the GitHub CERSE Organisational. We are assuming that you are going to be coordinating a future CERSE meeting in Edinburgh. We use [GitHub.io pages](https://pages.github.com/) to publicise meetings and log outcomes so it is important that you have a GitHub id with sufficient privileges within the CERSE Organisation to be able to do this.
 
-1. Create a repository with a name that uses the `yyyy-mm-dd-venue` pattern for your meeting.
+1. Create a repository with a name that uses the `yyyy-mm-dd-venue` pattern for your meeting. Make sure you create under the `cerse` organiation.
 2. Go into your repository and click on `Settings`. 
   * Scroll down until you come to the `GitHub Pages` section.
   * Change the `Source` to `master branch` (your io pages will be generated from your [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages in the repo starting from a `Readme.md` file).
