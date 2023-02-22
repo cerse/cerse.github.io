@@ -108,7 +108,39 @@ Some suggestions are:
 * [The CERSE twitter account](https://twitter.com/cerse7).
 * Edinburgh University's [itforum](https://www.wiki.ed.ac.uk/display/itpfwiki/ITPF+Mailing+lists) internal mailing list for IT professionals at the University of Edinburgh.
 
-Keep a log of where you publicise and when. You do not want to SPAM the same people too many times.
+An email idea you may wish to use riff around:
+
+```
+Hi,
+    Apology if you get this message more than once via different
+channels.
+
+The **Nth** meeting of the Community of Edinburgh Research Software
+Engineers (CERSE) will be held on the **Date** at **Time** in **Location**.
+
+Anyone who is involved with, or interested in, the development, use,
+support or management of research software is very welcome to attend.
+
+The event will have
+
+**Programme**
+
+Some refereshments will provided with time to meet new people will be provided at the end of the meeting. **Thank the sponsors**.
+
+
+
+To get an idea of numbers for catering please register at:
+**Registration link**
+
+Further information: **Meeting URL**
+
+Please circulate to anyone in the Edinburgh area who you think may be
+interested.
+```
+
+
+
+Keep a log of where you publicise the event and when. You do not want to SPAM the same people too many times.
 
 ### On the day
 
