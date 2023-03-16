@@ -63,6 +63,7 @@ Before you can do anything get yourself added to the GitHub CERSE Organisational
 6. It can be useful to set-up a registration process to know how many people are coming to the event (especially if catering is being provided) and to generate an attendee list. For this you could use:
    * [Edinburgh University events booking](https://www.ed.ac.uk/information-services/computing/comms-and-collab/event-booking) - make sure that externals to Edinburgh University can register for the event.
    * [Eventbrite](https://www.eventbrite.co.uk/)
+     * Try to include a calendar entry for people to add to their calendars (make life easy for them)
 
 ### Timetable for the day
 
