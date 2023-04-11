@@ -33,7 +33,7 @@ We have made these institution independent so as to be available to all interest
 
 ### Venue requirements
 
-First task is to have a good venue. A good venue should have where possible:
+Unless you intend your meeting to be a virtual your first task will be to find a good venue. A good venue should, where possible, have :
 
 * Capacity usually for up to around 50 people (registrations vary depending on time, day and location where the meeting will take place and advertising).
 * *Research Software Engineers* (RSEs) tend to carry laptops around so it would be nice to try to have an adequate number of power sockets and/or power extensions available.
@@ -44,16 +44,24 @@ First task is to have a good venue. A good venue should have where possible:
 
 The venue should be available for around two hours - this has been the typical duration for the meetings up to this point.
 
+### Virtual meetings
+
+Like with finding a good venue you will have to choose a viartual platform:
+
+* **Microsoft Teams**:
+* **Zoom**:
+* **Collaborate (via Learn)**:
+
 ### Before the event
 
 This starts from the premise that a suitable venue has been booked for this event.
 
 Before you can do anything get yourself added to the GitHub CERSE Organisational. We are assuming that you are going to be coordinating a future CERSE meeting in Edinburgh. We use [GitHub.io pages](https://pages.github.com/) to publicise meetings and log outcomes so it is important that you have a GitHub id with sufficient privileges within the CERSE Organisation to be able to do this.
 
-1. Create a repository with a name that uses the `yyyy-mm-dd-venue` pattern for your meeting. Make sure you create under the `cerse` organiation and that it is a `Public` repository.
+1. Create a public repository with a name that uses the `yyyy-mm-dd-venue` pattern for your meeting. Make sure you create under the `cerse` organiation and that it is a `Public` repository.
 2. Go into your repository and click on `Settings` (Gear icon). 
   * Choose the `Pages` menu item on the left-hand menu.
-  * Change the `Source` to `Deploy from a branch` and choose the branch to be `main` and the root to be `/ (root)` and remember to `Save` (your io pages will be generated from your [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages in the repo starting from a `Readme.md` file).
+  * Change the `Source` to `Deploy from a branch` and choose the branch to be `main` and the root to be `/ (root)` and remember to `Save` (your io pages will be generated from your [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages in the repo starting from a `README.md` file).
   * When you make this change GitHub will inform you where your GitHub io pages are published. It will follow the pattern: `https://cerse.github.io/YourRepoName`. Take a copy of your io pages URL.
   * If you copy the `_config.yaml` from another repo to use the Cayman theme as that gives a better accessibility score - we have previously been using the `Midnight theme`. If you think there is a better one for your event use that instead.
   * Go back to your repo page.
