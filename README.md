@@ -5,7 +5,7 @@
 The aim is to establish a self sustaining *Community Edinburgh Research Software Engineers* (RSEs) who periodically come together to determine best practice, provide support for fellow RSEs in Edinburgh and wider afield. We are doing this through a number of meetings aimed to take place at regular intervals.
 
 * Our [ninth meeting](https://cerse.github.io/2023-05-31-Roslin) will be face-to-face at Roslin on 31/05/23.
-* Our [eighth meeting](https://cerse.github.io/2023-04-26-virtual/) will be a virtual meeting on zoom on 26/04/23.
+* Our [eighth meeting](https://cerse.github.io/2023-04-26-virtual/) was a virtual meeting on zoom on 26/04/23.
 * Our [seventh meeting](https://cerse.github.io/2023-03-15-Bayes/) was be a face-to-face meeting at the Bayes on 15/03/23.
 * Our [sixth meeting](https://cerse.github.io/2020-05-13-Virtual) was a virtual meeting held on 13/05/20.
 * Our [fifth meeting](https://cerse.github.io/2020-02-18-Grant-Institute/) was held at Grant Institute at the King's Buildings on 18/02/20.
