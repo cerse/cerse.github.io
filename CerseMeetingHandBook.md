@@ -82,13 +82,13 @@ Typically we have used the following pattern:
 
 |Time  | Activity      |
 |------| ------|
-|13:00 | Welcome  |
-|13:05 | Presentation possibly from the venue volunteer |
-|13:25 | Ice breaking session (opportunity to get to know your fellow attendees) or a group activity|
-|13:45 | Lightning talks or discussion breakout groups |
-|14:00 | An RSE focused presentation |
-|14:30 | Coffee and biscuits |
-|15:00 | Close |
+|15:00 | Welcome  |
+|15:05 | Presentation possibly from the venue volunteer |
+|15:25 | Ice breaking session (opportunity to get to know your fellow attendees) or a group activity|
+|15:45 | Lightning talks or discussion breakout groups |
+|16:00 | An RSE focused presentation |
+|16:30 | Coffee and biscuits |
+|17:00 | Close |
 
 where the times are flexible depending on the content. In more detail:
 
