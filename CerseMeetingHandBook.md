@@ -16,7 +16,7 @@
 
 This is an evolving document - if you have something to add or change please contribute.
 
-This document offers guidance on how to orgonise a Community of *Edinburgh Research Software Engineers* (CERSE) meeting. We believe that these meetings should be inclusive and available to all. We have adopted the Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), please make yourself familiar with this and inform participants at the meeting that they should observe this.
+This document offers guidance on how to organise a Community of *Edinburgh Research Software Engineers* (CERSE) meeting. We believe that these meetings should be inclusive and available to all. We have adopted the Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), please make yourself familiar with this and inform participants at the meeting that they should observe this.
 
 ## Infrastructure
 
@@ -46,7 +46,7 @@ The venue should be available for around two hours - this has been the typical d
 
 ### Virtual meetings
 
-Like with finding a good venue you will have to choose a viartual platform:
+Like with finding a good venue you will have to choose a virtual platform:
 
 * **Microsoft Teams**:
 * **Zoom**:
@@ -58,7 +58,7 @@ This starts from the premise that a suitable venue has been booked for this even
 
 Before you can do anything get yourself added to the GitHub CERSE Organisational. We are assuming that you are going to be coordinating a future CERSE meeting in Edinburgh. We use [GitHub.io pages](https://pages.github.com/) to publicise meetings and log outcomes so it is important that you have a GitHub id with sufficient privileges within the CERSE Organisation to be able to do this.
 
-1. Create a public repository with a name that uses the `yyyy-mm-dd-venue` pattern for your meeting. Make sure you create under the `cerse` organiation and that it is a `Public` repository.
+1. Create a public repository with a name that uses the `yyyy-mm-dd-venue` pattern for your meeting. Make sure you create under the `cerse` organisation and that it is a `Public` repository.
 2. Go into your repository and click on `Settings` (Gear icon). 
   * Choose the `Pages` menu item on the left-hand menu.
   * Change the `Source` to `Deploy from a branch` and choose the branch to be `main` and the root to be `/ (root)` and remember to `Save` (your io pages will be generated from your [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) pages in the repo starting from a `README.md` file).
@@ -101,7 +101,7 @@ where the times are flexible depending on the content. In more detail:
      * Get them to nominate someone to chair and another person who will be the scribe. Either give them a pertinent topic to discuss or get them to select from a list that you will have prepared when generating the table. 
      * At the end of the session get the chair person and/or the scribe to report the main salient points of their discussion. 
      * If at all possible get the scribe to send you a summary of the discussion after the event - do not rely on notes that may/may  not have been written up on the day. The main point of this session is to get people to get to know each other but some useful material may also be generated that would benefit from being recorded.
-* **Lightning Talks** have proved to be of interest on the day but this requires people to volunteer this afore the meeting. We want these to be light for the speaker to write and for the audience to listen to. We have had a rule of only one slide and two minute per speaker (having a count down timer helps here). You will need people to register and express a desire to do a lightning talk on their research, a service, a cool tool, etc ... they can do more than one lightning talk but must be on different topics. Gather the slides BEFORE the meeting and put on one laptop. Ask for permission from the presenters if the slides can be made available from the web site after.
+* **Lightning Talks** have proved to be of interest on the day but this requires people to volunteer this before the meeting. We want these to be light for the speaker to write and for the audience to listen to. We have had a rule of only one slide and two minute per speaker (having a count down timer helps here). You will need people to register and express a desire to do a lightning talk on their research, a service, a cool tool, etc ... they can do more than one lightning talk but must be on different topics. Gather the slides BEFORE the meeting and put on one laptop. Ask for permission from the presenters if the slides can be made available from the web site after.
 * An **RSE focused presentation** - this should be a presentation that would be of wide interest to the RSEs. 
 * **Coffee and biscuits** this session gives you some spill over time if things have over run and you are running a bit late but in general people like to wind down with coffee and biscuits.
 
@@ -166,7 +166,7 @@ Make sure that you have copies of any material that was presented and that you h
 
 ### Timeline
 
-At the third CERSE meeting it was thought that scheduling a bimonthly meeting would work best. This section attempts to give a suggested timeline on how to proceed. Assume an 8 week span between meetings which may be a bit optimisitic but you can compress (or expand) the suggestion to fit the time that is available to you. We start from an assumption that the venue for the next CERSE meeting is decided on, or soon after, one of these meetings.
+At the third CERSE meeting it was thought that scheduling a bimonthly meeting would work best. This section attempts to give a suggested timeline on how to proceed. Assume an 8 week span between meetings which may be a bit optimistic but you can compress (or expand) the suggestion to fit the time that is available to you. We start from an assumption that the venue for the next CERSE meeting is decided on, or soon after, one of these meetings.
 
 * **week 0**: 
   * Have a room booked for the next meeting.
