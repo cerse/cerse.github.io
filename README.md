@@ -4,7 +4,7 @@
 
 The aim is to establish a self-sustaining *Community Edinburgh Research Software Engineers* (RSEs) who periodically come together to determine best practice and support fellow RSEs in Edinburgh and wider afield. We are doing this through several meetings aimed to take place at regular intervals.
 
-* Our [eleventh meeting](https://cerse.github.io/2024-08-07-50GS/) is a face-to-face at TBD on 07/08/24.
+* Our [eleventh meeting](https://cerse.github.io/2024-08-07-50GS/) is a face-to-face at room [G.06](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0227_00_G.06) in 50 George Square on 07/08/24.
 * Our [tenth meeting](https://cerse.github.io/2024-05-22-virtual/) was a virtual meeting on zoom on 22/05/24.
 * Our [ninth meeting](https://cerse.github.io/2023-05-31-Roslin) was a face-to-face at Roslin on 31/05/23.
 * Our [eighth meeting](https://cerse.github.io/2023-04-26-virtual/) was a virtual meeting on zoom on 26/04/23.
