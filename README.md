@@ -21,7 +21,7 @@ If you are organising a future CERSE meeting have a look at our [CERSE Meeting H
 
 * Join the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ED-RSE-COMMUNITY).
 * Follow us on [twitter](https://twitter.com/cerse7).
-* Join the [UK RSE slack](https://ukrse.slack.com/) and join the `#edinburgh` channel.
+* Join the [UK RSE slack](https://ukrse.slack.com/) and join the `#scotland` channel.
 
 Would you like to know more about RSEs? Please have a look at the [RSE Association](https://rse.ac.uk/) pages.
 
