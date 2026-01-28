@@ -4,6 +4,9 @@
 
 The aim is to establish a self-sustaining *Community of Edinburgh Research Software Engineers* (RSEs) who periodically come together to determine best practices and support fellow RSEs in Edinburgh and wider afield. We are doing this through several meetings aimed to take place at regular intervals.
 
+cerse.github.io/2026-03-18-bayes/
+
+* Our [thirteenth meeting](https://cerse.github.io/2026-03-18-bayes/) is a face-to-face in The Bayes Centre room G.03.
 * Our twelfth meeting will be part of the Digital Research Services' [HPC in focus](https://digitalresearchservices.ed.ac.uk/training/hpc-in-focus) day on 24/10/2024 at 15:00-16:30 in Room 1.19, Murchison House, the King's Buildings.
 * Our [eleventh meeting](https://cerse.github.io/2024-08-07-50GS/) is a face-to-face in room [G.06](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0227_00_G.06) at 50 George Square on 07/08/24.
 * Our [tenth meeting](https://cerse.github.io/2024-05-22-virtual/) was a virtual meeting on zoom on 22/05/24.
